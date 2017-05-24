@@ -4,7 +4,7 @@ This repository contains course materials, tutorials and examples about **Deep L
 
 ## Contents of the repository
 
-### [Deep Learning with TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow), Big Data University (Course)
+### [Deep Learning with TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow) - Big Data University
 
 ##### Folder
 `dl_tf_BDU`
