@@ -5,6 +5,12 @@ data/moviedataset.zip
 # Penn TreeBank data (over 100MB)
 data/Penn_Treebank
 
+# JetBrains products
+.idea
+
+# Visual Studio Code
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

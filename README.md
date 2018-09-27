@@ -1,6 +1,7 @@
-# Deep Learning with TensorFlow 
+# Deep Learning Playground
 
-This repository contains course materials, tutorials and examples about **Deep Learning with TensorFlow**.
+This repository contains course materials, tutorials and examples about **Deep Learning** using 
+**TensorFlow** and **PyTorch**.
 
 ## Contents of the repository
 
@@ -37,25 +38,34 @@ This repository contains course materials, tutorials and examples about **Deep L
     * Introduction to Autoencoders and Applications
     * Autoencoders
     * Deep Belief Network
+    
 
+### [Tutorials](https://pytorch.org/tutorials/) - PyTorch
 
-## How to run the code
+##### Folder
+`pytorch_tutorials`
 
-The code was tested in **Python 3.5**, but it should probably work in **Python 2.7** too.
+##### Syllabus
 
-1. Clone the repository:
-```
-$ git clone https://github.com/santipuch590/deeplearning-tf.git
-```
+* Getting started
+    * Deep Learning with PyTorch: A 60 Minute Blitz
+    * Data Loading and Processing Tutorial
+    * Learning PyTorch with Examples
+    * Transfer Learning Tutorial
+    * Deploying a Seq2Seq Model with the Hybrid Frontend
+    * Saving and Loading Models
 
-2. Install the dependencies (conda environments are recommended):
-```
-$ cd deeplearning-tf
-$ pip install -r requirements.txt
-```
+* Image
+    * Finetuning Torchvision Models
+    * Spatial Transformer Networks Tutorial
+    * Neural Transfer Using PyTorch
+    * Adversarial Example Generation
+    * Transfering a Model from PyTorch to Caffe2 and Mobile using ONNX
 
-3. Run a Jupyter Notebook to navigate and execute the code:
-```
-$ jupyter notebook
-```
+* Generative
+    * DCGAN Tutorial
 
+* Production usage
+    * Writing Distributed Applications with PyTorch
+    * ONNX Live Tutorial
+    * Loading a PyTorch Model in C++
