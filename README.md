@@ -40,7 +40,7 @@ This repository contains course materials, tutorials and examples about **Deep L
     * Deep Belief Network
     
 
-### [Tutorials](https://pytorch.org/tutorials/) - PyTorch
+### [PyTorch Tutorials](https://pytorch.org/tutorials/) - PyTorch
 
 ##### Folder
 `pytorch_tutorials`
