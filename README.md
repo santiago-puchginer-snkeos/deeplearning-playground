@@ -76,3 +76,4 @@ This repository contains course materials, tutorials and examples about **Deep L
 
 * [Text](tensorflow_2_tutorials/text/)
     * [Word Embeddings](tensorflow_2_tutorials/text/word_embeddings.ipynb)
+    * [Text Classification with an RNN](tensorflow_2_tutorials/text/text_classification_rnn.ipynb)
