@@ -80,3 +80,4 @@ This repository contains course materials, tutorials and examples about **Deep L
 
 * [Generative](tensorflow_2_tutorials/generative/)
     * [Deep Convolutional Generative Adversarial Network (DCGAN)](tensorflow_2_tutorials/generative/deep_convolutional_generative_adversarial_network.ipynb) - [GIF](tensorflow_2_tutorials/generative/deep_convolutional_generative_adversarial_network.gif)
+    * [DeepDream](tensorflow_2_tutorials/generative/deepdream.ipynb)
