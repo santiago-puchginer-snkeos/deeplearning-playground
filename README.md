@@ -86,5 +86,6 @@ This repository contains course materials, tutorials and examples about **Deep L
     -   [Text Classification with an RNN](tensorflow_2_tutorials/text/text_classification_rnn.ipynb)
     -   [Text Generation with an RNN](tensorflow_2_tutorials/text/text_generation_with_an_rnn.ipynb)
 
--   [Generative](tensorflow_2_tutorials/generative/)
+*   [Generative](tensorflow_2_tutorials/generative/)
     -   [Deep Convolutional Generative Adversarial Network (DCGAN)](tensorflow_2_tutorials/generative/deep_convolutional_generative_adversarial_network.ipynb) - [GIF](tensorflow_2_tutorials/generative/deep_convolutional_generative_adversarial_network.gif)
+    -   [DeepDream](tensorflow_2_tutorials/generative/deepdream.ipynb)
