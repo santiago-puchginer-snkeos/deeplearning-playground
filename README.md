@@ -91,3 +91,13 @@ This repository contains course materials, tutorials and examples about **Deep L
     -   [DeepDream](tensorflow_2_tutorials/generative/deepdream.ipynb)
     -   [Pix2Pix](tensorflow_2_tutorials/generative/pix2pix.ipynb)
     -   [CycleGAN](tensorflow_2_tutorials/generative/cyclegan.ipynb)
+
+### [Deep Learning (for Audio) with Python, by Valerio Velardo](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
+
+**Folder**: [dl_for_audio_valerio_velardo](dl_for_audio_valerio_velardo)
+
+**Contents**
+
+-   [Preprocessing audio data for Deep Learning](dl_for_audio_valerio_velardo/1_Preprocessing_audio_data_for_Deep_Learning.ipynb)
+
+-   Music Genre Classification - Preparing the dataset
