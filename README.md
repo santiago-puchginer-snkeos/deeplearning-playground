@@ -82,15 +82,15 @@ This repository contains course materials, tutorials and examples about **Deep L
 
 -   [Text](tensorflow_2_tutorials/text/)
 
-    -   [Word Embeddings](tensorflow_2_tutorials/text/word_embeddings.ipynb)
-    -   [Text Classification with an RNN](tensorflow_2_tutorials/text/text_classification_rnn.ipynb)
-    -   [Text Generation with an RNN](tensorflow_2_tutorials/text/text_generation_with_an_rnn.ipynb)
+    -   [Word Embeddings](tensorflow_2_tutorials/text/word_embeddings.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santipuch590/deeplearning-playground/blob/master/tensorflow_2_tutorials/text/word_embeddings.ipynb)
+    -   [Text Classification with an RNN](tensorflow_2_tutorials/text/text_classification_rnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santipuch590/deeplearning-playground/blob/master/tensorflow_2_tutorials/text/text_classification_rnn.ipynb)
+    -   [Text Generation with an RNN](tensorflow_2_tutorials/text/text_generation_with_an_rnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santipuch590/deeplearning-playground/blob/master/tensorflow_2_tutorials/text/text_generation_with_an_rnn.ipynb)
 
 *   [Generative](tensorflow_2_tutorials/generative/)
-    -   [Deep Convolutional Generative Adversarial Network (DCGAN)](tensorflow_2_tutorials/generative/deep_convolutional_generative_adversarial_network.ipynb) - [GIF](tensorflow_2_tutorials/generative/deep_convolutional_generative_adversarial_network.gif)
-    -   [DeepDream](tensorflow_2_tutorials/generative/deepdream.ipynb)
-    -   [Pix2Pix](tensorflow_2_tutorials/generative/pix2pix.ipynb)
-    -   [CycleGAN](tensorflow_2_tutorials/generative/cyclegan.ipynb)
+    -   [Deep Convolutional Generative Adversarial Network (DCGAN)](tensorflow_2_tutorials/generative/deep_convolutional_generative_adversarial_network.ipynb) - [GIF](tensorflow_2_tutorials/generative/deep_convolutional_generative_adversarial_network.gif) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santipuch590/deeplearning-playground/blob/master/tensorflow_2_tutorials/generative/deep_convolutional_generative_adversarial_network.ipynb)
+    -   [DeepDream](tensorflow_2_tutorials/generative/deepdream.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santipuch590/deeplearning-playground/blob/master/tensorflow_2_tutorials/generative/deepdream.ipynb)
+    -   [Pix2Pix](tensorflow_2_tutorials/generative/pix2pix.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santipuch590/deeplearning-playground/blob/master/tensorflow_2_tutorials/generative/pix2pix.ipynb)
+    -   [CycleGAN](tensorflow_2_tutorials/generative/cyclegan.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santipuch590/deeplearning-playground/blob/master/tensorflow_2_tutorials/generative/cyclegan.ipynb)
 
 ### [Deep Learning (for Audio) with Python, by Valerio Velardo](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
 
